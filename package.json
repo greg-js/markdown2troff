@@ -1,0 +1,17 @@
+{
+  "name": "markdown2troff",
+  "version": "0.1.0",
+  "description": "Simple markdown to troff (the `man` format) converter using regular expressions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "troff",
+    "groff",
+    "md"
+  ],
+  "author": "Gregory J. Scheerlinck",
+  "license": "MIT"
+}
