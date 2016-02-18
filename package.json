@@ -13,5 +13,16 @@
     "md"
   ],
   "author": "Gregory J. Scheerlinck",
-  "license": "MIT"
+  "license": "GPL-3.0",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greg-js/markdown2troff.git"
+  },
+  "bugs": {
+    "url": "https://github.com/greg-js/markdown2troff/issues"
+  },
+  "homepage": "https://github.com/greg-js/markdown2troff#readme"
 }
