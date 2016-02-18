@@ -32,6 +32,10 @@ var md2troff = require('markdown2troff');
 var sweetTroff = md2troff(disgustingMarkdown);
 ```
 
+## Tests?!
+
+Sorry, I wrote this as I went along while testing some of my own markdown files.. Maybe one day I'll come back and write some :)
+
 ## Boring
 
 Licensed under the GPLv3
